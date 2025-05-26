@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<h1>I am a Full Stack Developer with good Knowledge in Java, Web Technologies and SQL</h1>
 <!--
 **HKYogesh/HKYogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
