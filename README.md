@@ -44,14 +44,9 @@ CGPA: 7.8 (Graduated in 2024)
 
 ## 📫 Let's Connect!
 
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="mailto:hkyogesh28@gmail.com" target="_blank" style="border: none; outline: none;">
-    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" style="display: block;"/>
-  </a>
-  <a href="www.linkedin.com/in/hk-yogesh" target="_blank" style="border: none; outline: none;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="display: block;"/>
-  </a>
-</p>
+[![Email](https://img.icons8.com/fluency/48/000000/new-post.png)](mailto:hkyogesh28@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/hk-yogesh)
+
 
 ---
 
